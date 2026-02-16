@@ -1,0 +1,8 @@
+#SECTION A
+sqlalchemy
+fastapi
+tensorflow == 2.15.0
+uvicorn
+numpy 
+pandas
+
