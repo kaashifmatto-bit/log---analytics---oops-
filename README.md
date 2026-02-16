@@ -1,2 +1,2 @@
-# log---analytics---oops-
-In order to demonstrate environment setup, basic Python concepts, file and exception handling, and clean OOP design, this project creates a structured Python log analytics system. It is managed with a professional repository structure using Git, reads and parses log files, analyses user activity, creates reports, and correctly logs errors.
+# log-analytics-oops-
+This project is a structured log analytics system built with Python that aims to illustrate clean Object-Oriented Programming (OOP) principles, file handling, exception handling, environment management, and core Python concepts. Log files are read, user records are parsed, activity is analysed, reports are produced, and errors are appropriately handled by the system. The project is organised for expert repository management and is version-controlled with Git.
